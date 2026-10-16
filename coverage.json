@@ -1,0 +1,3634 @@
+{
+  "scope": "All 100 authored lessons: objectives, rule/condition checkpoints, original worked examples, transfer examples, meaning and whole-sentence analysis. This is not a certification that every discussion in the 1,332 reference pages has been extracted or assessed.",
+  "lessons": 100,
+  "mcqs": 869,
+  "short_answers": 543,
+  "worked_examples": 200,
+  "coverage": [
+    {
+      "id": "l01",
+      "title": "عامل، معمول اور عمل",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l01-0",
+          "l01-4"
+        ],
+        "conditions": [
+          "l01-5"
+        ],
+        "word-analysis": [
+          "l01-1",
+          "l01-2",
+          "l01-3"
+        ],
+        "original-example": [
+          "l01-1",
+          "l01-2",
+          "l01-3",
+          "l01-8"
+        ],
+        "transfer": [
+          "l01-6",
+          "l01-7"
+        ],
+        "meaning": [
+          "l01-7"
+        ],
+        "synthesis": [
+          "l01-8"
+        ]
+      }
+    },
+    {
+      "id": "l02",
+      "title": "اعراب اور بناء",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l02-0",
+          "l02-3"
+        ],
+        "conditions": [
+          "l02-4"
+        ],
+        "word-analysis": [
+          "l02-1",
+          "l02-2"
+        ],
+        "original-example": [
+          "l02-1",
+          "l02-2",
+          "l02-7"
+        ],
+        "transfer": [
+          "l02-5",
+          "l02-6"
+        ],
+        "meaning": [
+          "l02-6"
+        ],
+        "synthesis": [
+          "l02-7"
+        ]
+      }
+    },
+    {
+      "id": "l03",
+      "title": "عوامل کی بنیادی تقسیم",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l03-0",
+          "l03-3"
+        ],
+        "conditions": [
+          "l03-4"
+        ],
+        "word-analysis": [
+          "l03-1",
+          "l03-2"
+        ],
+        "original-example": [
+          "l03-1",
+          "l03-2",
+          "l03-7"
+        ],
+        "transfer": [
+          "l03-5",
+          "l03-6"
+        ],
+        "meaning": [
+          "l03-6"
+        ],
+        "synthesis": [
+          "l03-7"
+        ]
+      }
+    },
+    {
+      "id": "l04",
+      "title": "حروفِ جر کا عمل",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l04-0",
+          "l04-4"
+        ],
+        "conditions": [
+          "l04-5"
+        ],
+        "word-analysis": [
+          "l04-1",
+          "l04-2",
+          "l04-3"
+        ],
+        "original-example": [
+          "l04-1",
+          "l04-2",
+          "l04-3",
+          "l04-8"
+        ],
+        "transfer": [
+          "l04-6",
+          "l04-7"
+        ],
+        "meaning": [
+          "l04-7"
+        ],
+        "synthesis": [
+          "l04-8"
+        ]
+      }
+    },
+    {
+      "id": "l05",
+      "title": "باء، لام اور کاف",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l05-0",
+          "l05-4"
+        ],
+        "conditions": [
+          "l05-5"
+        ],
+        "word-analysis": [
+          "l05-1",
+          "l05-2",
+          "l05-3"
+        ],
+        "original-example": [
+          "l05-1",
+          "l05-2",
+          "l05-3",
+          "l05-8"
+        ],
+        "transfer": [
+          "l05-6",
+          "l05-7"
+        ],
+        "meaning": [
+          "l05-7"
+        ],
+        "synthesis": [
+          "l05-8"
+        ]
+      }
+    },
+    {
+      "id": "l06",
+      "title": "مِنْ اور إِلَى",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l06-0",
+          "l06-4"
+        ],
+        "conditions": [
+          "l06-5"
+        ],
+        "word-analysis": [
+          "l06-1",
+          "l06-2",
+          "l06-3"
+        ],
+        "original-example": [
+          "l06-1",
+          "l06-2",
+          "l06-3",
+          "l06-8"
+        ],
+        "transfer": [
+          "l06-6",
+          "l06-7"
+        ],
+        "meaning": [
+          "l06-7"
+        ],
+        "synthesis": [
+          "l06-8"
+        ]
+      }
+    },
+    {
+      "id": "l07",
+      "title": "عَنْ، عَلَى اور فِي",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l07-0",
+          "l07-4"
+        ],
+        "conditions": [
+          "l07-5"
+        ],
+        "word-analysis": [
+          "l07-1",
+          "l07-2",
+          "l07-3"
+        ],
+        "original-example": [
+          "l07-1",
+          "l07-2",
+          "l07-3",
+          "l07-8"
+        ],
+        "transfer": [
+          "l07-6",
+          "l07-7"
+        ],
+        "meaning": [
+          "l07-7"
+        ],
+        "synthesis": [
+          "l07-8"
+        ]
+      }
+    },
+    {
+      "id": "l08",
+      "title": "حروفِ قسم",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l08-3"
+        ],
+        "conditions": [
+          "l08-4"
+        ],
+        "word-analysis": [
+          "l08-0",
+          "l08-1",
+          "l08-2"
+        ],
+        "original-example": [
+          "l08-0",
+          "l08-1",
+          "l08-2",
+          "l08-7"
+        ],
+        "transfer": [
+          "l08-5",
+          "l08-6"
+        ],
+        "meaning": [
+          "l08-6"
+        ],
+        "synthesis": [
+          "l08-7"
+        ]
+      }
+    },
+    {
+      "id": "l09",
+      "title": "إِنَّ اور اس کی بہنیں",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l09-0",
+          "l09-4",
+          "l09-9"
+        ],
+        "conditions": [
+          "l09-5",
+          "l09-9"
+        ],
+        "word-analysis": [
+          "l09-1",
+          "l09-2",
+          "l09-3"
+        ],
+        "original-example": [
+          "l09-1",
+          "l09-2",
+          "l09-3",
+          "l09-8"
+        ],
+        "transfer": [
+          "l09-6",
+          "l09-7"
+        ],
+        "meaning": [
+          "l09-7"
+        ],
+        "synthesis": [
+          "l09-8"
+        ]
+      }
+    },
+    {
+      "id": "l10",
+      "title": "لَيْتَ اور لَعَلَّ",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l10-0",
+          "l10-4"
+        ],
+        "conditions": [
+          "l10-5"
+        ],
+        "word-analysis": [
+          "l10-1",
+          "l10-2",
+          "l10-3"
+        ],
+        "original-example": [
+          "l10-1",
+          "l10-2",
+          "l10-3",
+          "l10-8"
+        ],
+        "transfer": [
+          "l10-6",
+          "l10-7"
+        ],
+        "meaning": [
+          "l10-7"
+        ],
+        "synthesis": [
+          "l10-8"
+        ]
+      }
+    },
+    {
+      "id": "l11",
+      "title": "كَانَ اور افعالِ ناقصہ",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l11-0",
+          "l11-4",
+          "l11-9"
+        ],
+        "conditions": [
+          "l11-5",
+          "l11-9"
+        ],
+        "word-analysis": [
+          "l11-1",
+          "l11-2",
+          "l11-3"
+        ],
+        "original-example": [
+          "l11-1",
+          "l11-2",
+          "l11-3",
+          "l11-8"
+        ],
+        "transfer": [
+          "l11-6",
+          "l11-7"
+        ],
+        "meaning": [
+          "l11-7"
+        ],
+        "synthesis": [
+          "l11-8"
+        ]
+      }
+    },
+    {
+      "id": "l12",
+      "title": "صَارَ اور لَيْسَ",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l12-0",
+          "l12-4"
+        ],
+        "conditions": [
+          "l12-5"
+        ],
+        "word-analysis": [
+          "l12-1",
+          "l12-2",
+          "l12-3"
+        ],
+        "original-example": [
+          "l12-1",
+          "l12-2",
+          "l12-3",
+          "l12-8"
+        ],
+        "transfer": [
+          "l12-6",
+          "l12-7"
+        ],
+        "meaning": [
+          "l12-7"
+        ],
+        "synthesis": [
+          "l12-8"
+        ]
+      }
+    },
+    {
+      "id": "l13",
+      "title": "فعلِ مضارع کو نصب دینے والے حروف",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l13-0",
+          "l13-4",
+          "l13-9"
+        ],
+        "conditions": [
+          "l13-5",
+          "l13-9"
+        ],
+        "word-analysis": [
+          "l13-1",
+          "l13-2",
+          "l13-3"
+        ],
+        "original-example": [
+          "l13-1",
+          "l13-2",
+          "l13-3",
+          "l13-8"
+        ],
+        "transfer": [
+          "l13-6",
+          "l13-7"
+        ],
+        "meaning": [
+          "l13-7"
+        ],
+        "synthesis": [
+          "l13-8"
+        ]
+      }
+    },
+    {
+      "id": "l14",
+      "title": "لَمْ اور لَمَّا",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l14-0",
+          "l14-4"
+        ],
+        "conditions": [
+          "l14-5"
+        ],
+        "word-analysis": [
+          "l14-1",
+          "l14-2",
+          "l14-3"
+        ],
+        "original-example": [
+          "l14-1",
+          "l14-2",
+          "l14-3",
+          "l14-8"
+        ],
+        "transfer": [
+          "l14-6",
+          "l14-7"
+        ],
+        "meaning": [
+          "l14-7"
+        ],
+        "synthesis": [
+          "l14-8"
+        ]
+      }
+    },
+    {
+      "id": "l15",
+      "title": "لامِ امر اور لائے نہی",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l15-0",
+          "l15-3"
+        ],
+        "conditions": [
+          "l15-4"
+        ],
+        "word-analysis": [
+          "l15-1",
+          "l15-2"
+        ],
+        "original-example": [
+          "l15-1",
+          "l15-2",
+          "l15-7"
+        ],
+        "transfer": [
+          "l15-5",
+          "l15-6"
+        ],
+        "meaning": [
+          "l15-6"
+        ],
+        "synthesis": [
+          "l15-7"
+        ]
+      }
+    },
+    {
+      "id": "l16",
+      "title": "شرط اور جزا",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l16-0",
+          "l16-4",
+          "l16-9"
+        ],
+        "conditions": [
+          "l16-5",
+          "l16-9"
+        ],
+        "word-analysis": [
+          "l16-1",
+          "l16-2",
+          "l16-3"
+        ],
+        "original-example": [
+          "l16-1",
+          "l16-2",
+          "l16-3",
+          "l16-8"
+        ],
+        "transfer": [
+          "l16-6",
+          "l16-7"
+        ],
+        "meaning": [
+          "l16-7"
+        ],
+        "synthesis": [
+          "l16-8"
+        ]
+      }
+    },
+    {
+      "id": "l17",
+      "title": "فعل اور فاعل",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l17-0",
+          "l17-4"
+        ],
+        "conditions": [
+          "l17-5"
+        ],
+        "word-analysis": [
+          "l17-1",
+          "l17-2",
+          "l17-3"
+        ],
+        "original-example": [
+          "l17-1",
+          "l17-2",
+          "l17-3",
+          "l17-8"
+        ],
+        "transfer": [
+          "l17-6",
+          "l17-7"
+        ],
+        "meaning": [
+          "l17-7"
+        ],
+        "synthesis": [
+          "l17-8"
+        ]
+      }
+    },
+    {
+      "id": "l18",
+      "title": "مفعول بہ اور فعلِ متعدی",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l18-0",
+          "l18-4"
+        ],
+        "conditions": [
+          "l18-5"
+        ],
+        "word-analysis": [
+          "l18-1",
+          "l18-2",
+          "l18-3"
+        ],
+        "original-example": [
+          "l18-1",
+          "l18-2",
+          "l18-3",
+          "l18-8"
+        ],
+        "transfer": [
+          "l18-6",
+          "l18-7"
+        ],
+        "meaning": [
+          "l18-7"
+        ],
+        "synthesis": [
+          "l18-8"
+        ]
+      }
+    },
+    {
+      "id": "l19",
+      "title": "اسمِ فاعل کا عمل",
+      "mcqs": 11,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l19-0",
+          "l19-5",
+          "l19-10"
+        ],
+        "conditions": [
+          "l19-6",
+          "l19-10"
+        ],
+        "word-analysis": [
+          "l19-1",
+          "l19-2",
+          "l19-3",
+          "l19-4"
+        ],
+        "original-example": [
+          "l19-1",
+          "l19-2",
+          "l19-3",
+          "l19-4",
+          "l19-9"
+        ],
+        "transfer": [
+          "l19-7",
+          "l19-8"
+        ],
+        "meaning": [
+          "l19-8"
+        ],
+        "synthesis": [
+          "l19-9"
+        ]
+      }
+    },
+    {
+      "id": "l20",
+      "title": "اسمِ مفعول اور نائب فاعل",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l20-0",
+          "l20-4",
+          "l20-9"
+        ],
+        "conditions": [
+          "l20-5",
+          "l20-9"
+        ],
+        "word-analysis": [
+          "l20-1",
+          "l20-2",
+          "l20-3"
+        ],
+        "original-example": [
+          "l20-1",
+          "l20-2",
+          "l20-3",
+          "l20-8"
+        ],
+        "transfer": [
+          "l20-6",
+          "l20-7"
+        ],
+        "meaning": [
+          "l20-7"
+        ],
+        "synthesis": [
+          "l20-8"
+        ]
+      }
+    },
+    {
+      "id": "l21",
+      "title": "اضافت اور مضاف الیہ",
+      "mcqs": 11,
+      "short_answers": 7,
+      "areas": {
+        "rule": [
+          "l21-0",
+          "l21-4",
+          "l21-9",
+          "l21-10"
+        ],
+        "conditions": [
+          "l21-5",
+          "l21-9",
+          "l21-10"
+        ],
+        "word-analysis": [
+          "l21-1",
+          "l21-2",
+          "l21-3"
+        ],
+        "original-example": [
+          "l21-1",
+          "l21-2",
+          "l21-3",
+          "l21-8"
+        ],
+        "transfer": [
+          "l21-6",
+          "l21-7"
+        ],
+        "meaning": [
+          "l21-7"
+        ],
+        "synthesis": [
+          "l21-8"
+        ]
+      }
+    },
+    {
+      "id": "l22",
+      "title": "مبتدا اور خبر",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l22-0",
+          "l22-3"
+        ],
+        "conditions": [
+          "l22-4"
+        ],
+        "word-analysis": [
+          "l22-1",
+          "l22-2"
+        ],
+        "original-example": [
+          "l22-1",
+          "l22-2",
+          "l22-7"
+        ],
+        "transfer": [
+          "l22-5",
+          "l22-6"
+        ],
+        "meaning": [
+          "l22-6"
+        ],
+        "synthesis": [
+          "l22-7"
+        ]
+      }
+    },
+    {
+      "id": "l23",
+      "title": "مضارع کی حالتِ رفع",
+      "mcqs": 9,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l23-0",
+          "l23-3",
+          "l23-8"
+        ],
+        "conditions": [
+          "l23-4",
+          "l23-8"
+        ],
+        "word-analysis": [
+          "l23-1",
+          "l23-2"
+        ],
+        "original-example": [
+          "l23-1",
+          "l23-2",
+          "l23-7"
+        ],
+        "transfer": [
+          "l23-5",
+          "l23-6"
+        ],
+        "meaning": [
+          "l23-6"
+        ],
+        "synthesis": [
+          "l23-7"
+        ]
+      }
+    },
+    {
+      "id": "l24",
+      "title": "ترکیب کرنے کا طریقہ",
+      "mcqs": 10,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l24-0",
+          "l24-5"
+        ],
+        "conditions": [
+          "l24-6"
+        ],
+        "word-analysis": [
+          "l24-1",
+          "l24-2",
+          "l24-3",
+          "l24-4"
+        ],
+        "original-example": [
+          "l24-1",
+          "l24-2",
+          "l24-3",
+          "l24-4",
+          "l24-9"
+        ],
+        "transfer": [
+          "l24-7",
+          "l24-8"
+        ],
+        "meaning": [
+          "l24-8"
+        ],
+        "synthesis": [
+          "l24-9"
+        ]
+      }
+    },
+    {
+      "id": "l25",
+      "title": "رُبَّ، مُذْ اور مُنْذُ",
+      "mcqs": 11,
+      "short_answers": 7,
+      "areas": {
+        "rule": [
+          "l25-4",
+          "l25-9",
+          "l25-10"
+        ],
+        "conditions": [
+          "l25-5",
+          "l25-9",
+          "l25-10"
+        ],
+        "word-analysis": [
+          "l25-0",
+          "l25-1",
+          "l25-2",
+          "l25-3"
+        ],
+        "original-example": [
+          "l25-0",
+          "l25-1",
+          "l25-2",
+          "l25-3",
+          "l25-8"
+        ],
+        "transfer": [
+          "l25-6",
+          "l25-7"
+        ],
+        "meaning": [
+          "l25-7"
+        ],
+        "synthesis": [
+          "l25-8"
+        ]
+      }
+    },
+    {
+      "id": "l26",
+      "title": "حَتَّى اور انتہائے غایت",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l26-4",
+          "l26-9"
+        ],
+        "conditions": [
+          "l26-5",
+          "l26-9"
+        ],
+        "word-analysis": [
+          "l26-0",
+          "l26-1",
+          "l26-2",
+          "l26-3"
+        ],
+        "original-example": [
+          "l26-0",
+          "l26-1",
+          "l26-2",
+          "l26-3",
+          "l26-8"
+        ],
+        "transfer": [
+          "l26-6",
+          "l26-7"
+        ],
+        "meaning": [
+          "l26-7"
+        ],
+        "synthesis": [
+          "l26-8"
+        ]
+      }
+    },
+    {
+      "id": "l27",
+      "title": "خَلَا، عَدَا اور حَاشَا",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l27-4",
+          "l27-9"
+        ],
+        "conditions": [
+          "l27-5",
+          "l27-9"
+        ],
+        "word-analysis": [
+          "l27-0",
+          "l27-1",
+          "l27-2",
+          "l27-3"
+        ],
+        "original-example": [
+          "l27-0",
+          "l27-1",
+          "l27-2",
+          "l27-3",
+          "l27-8"
+        ],
+        "transfer": [
+          "l27-6",
+          "l27-7"
+        ],
+        "meaning": [
+          "l27-7"
+        ],
+        "synthesis": [
+          "l27-8"
+        ]
+      }
+    },
+    {
+      "id": "l28",
+      "title": "لَكِنَّ اور كَأَنَّ",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l28-4"
+        ],
+        "conditions": [
+          "l28-5"
+        ],
+        "word-analysis": [
+          "l28-0",
+          "l28-1",
+          "l28-2",
+          "l28-3"
+        ],
+        "original-example": [
+          "l28-0",
+          "l28-1",
+          "l28-2",
+          "l28-3",
+          "l28-8"
+        ],
+        "transfer": [
+          "l28-6",
+          "l28-7"
+        ],
+        "meaning": [
+          "l28-7"
+        ],
+        "synthesis": [
+          "l28-8"
+        ]
+      }
+    },
+    {
+      "id": "l29",
+      "title": "مَا اور لَا مشابہتِ لَیْس",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l29-4"
+        ],
+        "conditions": [
+          "l29-5"
+        ],
+        "word-analysis": [
+          "l29-0",
+          "l29-1",
+          "l29-2",
+          "l29-3"
+        ],
+        "original-example": [
+          "l29-0",
+          "l29-1",
+          "l29-2",
+          "l29-3",
+          "l29-8"
+        ],
+        "transfer": [
+          "l29-6",
+          "l29-7"
+        ],
+        "meaning": [
+          "l29-7"
+        ],
+        "synthesis": [
+          "l29-8"
+        ]
+      }
+    },
+    {
+      "id": "l30",
+      "title": "لائے نفی جنس",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l30-4",
+          "l30-9"
+        ],
+        "conditions": [
+          "l30-5",
+          "l30-9"
+        ],
+        "word-analysis": [
+          "l30-0",
+          "l30-1",
+          "l30-2",
+          "l30-3"
+        ],
+        "original-example": [
+          "l30-0",
+          "l30-1",
+          "l30-2",
+          "l30-3",
+          "l30-8"
+        ],
+        "transfer": [
+          "l30-6",
+          "l30-7"
+        ],
+        "meaning": [
+          "l30-7"
+        ],
+        "synthesis": [
+          "l30-8"
+        ]
+      }
+    },
+    {
+      "id": "l31",
+      "title": "نداء اور منادی",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l31-4",
+          "l31-9"
+        ],
+        "conditions": [
+          "l31-5",
+          "l31-9"
+        ],
+        "word-analysis": [
+          "l31-0",
+          "l31-1",
+          "l31-2",
+          "l31-3"
+        ],
+        "original-example": [
+          "l31-0",
+          "l31-1",
+          "l31-2",
+          "l31-3",
+          "l31-8"
+        ],
+        "transfer": [
+          "l31-6",
+          "l31-7"
+        ],
+        "meaning": [
+          "l31-7"
+        ],
+        "synthesis": [
+          "l31-8"
+        ]
+      }
+    },
+    {
+      "id": "l32",
+      "title": "أَنْ، كَيْ اور إِذَنْ کی شرائط",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l32-4",
+          "l32-9"
+        ],
+        "conditions": [
+          "l32-5",
+          "l32-9"
+        ],
+        "word-analysis": [
+          "l32-0",
+          "l32-1",
+          "l32-2",
+          "l32-3"
+        ],
+        "original-example": [
+          "l32-0",
+          "l32-1",
+          "l32-2",
+          "l32-3",
+          "l32-8"
+        ],
+        "transfer": [
+          "l32-6",
+          "l32-7"
+        ],
+        "meaning": [
+          "l32-7"
+        ],
+        "synthesis": [
+          "l32-8"
+        ]
+      }
+    },
+    {
+      "id": "l33",
+      "title": "اسمائے شرط",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l33-4"
+        ],
+        "conditions": [
+          "l33-5"
+        ],
+        "word-analysis": [
+          "l33-0",
+          "l33-1",
+          "l33-2",
+          "l33-3"
+        ],
+        "original-example": [
+          "l33-0",
+          "l33-1",
+          "l33-2",
+          "l33-3",
+          "l33-8"
+        ],
+        "transfer": [
+          "l33-6",
+          "l33-7"
+        ],
+        "meaning": [
+          "l33-7"
+        ],
+        "synthesis": [
+          "l33-8"
+        ]
+      }
+    },
+    {
+      "id": "l34",
+      "title": "عدد اور تمییز",
+      "mcqs": 12,
+      "short_answers": 8,
+      "areas": {
+        "rule": [
+          "l34-4",
+          "l34-9",
+          "l34-10",
+          "l34-11"
+        ],
+        "conditions": [
+          "l34-5",
+          "l34-9",
+          "l34-10",
+          "l34-11"
+        ],
+        "word-analysis": [
+          "l34-0",
+          "l34-1",
+          "l34-2",
+          "l34-3"
+        ],
+        "original-example": [
+          "l34-0",
+          "l34-1",
+          "l34-2",
+          "l34-3",
+          "l34-8"
+        ],
+        "transfer": [
+          "l34-6",
+          "l34-7"
+        ],
+        "meaning": [
+          "l34-7"
+        ],
+        "synthesis": [
+          "l34-8"
+        ]
+      }
+    },
+    {
+      "id": "l35",
+      "title": "كَمْ، كَأَيِّنْ اور كَذَا",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l35-4",
+          "l35-9"
+        ],
+        "conditions": [
+          "l35-5",
+          "l35-9"
+        ],
+        "word-analysis": [
+          "l35-0",
+          "l35-1",
+          "l35-2",
+          "l35-3"
+        ],
+        "original-example": [
+          "l35-0",
+          "l35-1",
+          "l35-2",
+          "l35-3",
+          "l35-8"
+        ],
+        "transfer": [
+          "l35-6",
+          "l35-7"
+        ],
+        "meaning": [
+          "l35-7"
+        ],
+        "synthesis": [
+          "l35-8"
+        ]
+      }
+    },
+    {
+      "id": "l36",
+      "title": "اسمائے افعال",
+      "mcqs": 9,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l36-3",
+          "l36-8"
+        ],
+        "conditions": [
+          "l36-4",
+          "l36-8"
+        ],
+        "word-analysis": [
+          "l36-0",
+          "l36-1",
+          "l36-2"
+        ],
+        "original-example": [
+          "l36-0",
+          "l36-1",
+          "l36-2",
+          "l36-7"
+        ],
+        "transfer": [
+          "l36-5",
+          "l36-6"
+        ],
+        "meaning": [
+          "l36-6"
+        ],
+        "synthesis": [
+          "l36-7"
+        ]
+      }
+    },
+    {
+      "id": "l37",
+      "title": "هَيْهَاتَ، سَرْعَانَ اور شَتَّانَ",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l37-4"
+        ],
+        "conditions": [
+          "l37-5"
+        ],
+        "word-analysis": [
+          "l37-0",
+          "l37-1",
+          "l37-2",
+          "l37-3"
+        ],
+        "original-example": [
+          "l37-0",
+          "l37-1",
+          "l37-2",
+          "l37-3",
+          "l37-8"
+        ],
+        "transfer": [
+          "l37-6",
+          "l37-7"
+        ],
+        "meaning": [
+          "l37-7"
+        ],
+        "synthesis": [
+          "l37-8"
+        ]
+      }
+    },
+    {
+      "id": "l38",
+      "title": "افعالِ ناقصہ کی مکمل جماعت",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l38-4"
+        ],
+        "conditions": [
+          "l38-5"
+        ],
+        "word-analysis": [
+          "l38-0",
+          "l38-1",
+          "l38-2",
+          "l38-3"
+        ],
+        "original-example": [
+          "l38-0",
+          "l38-1",
+          "l38-2",
+          "l38-3",
+          "l38-8"
+        ],
+        "transfer": [
+          "l38-6",
+          "l38-7"
+        ],
+        "meaning": [
+          "l38-7"
+        ],
+        "synthesis": [
+          "l38-8"
+        ]
+      }
+    },
+    {
+      "id": "l39",
+      "title": "افعالِ مقاربہ",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l39-4",
+          "l39-9"
+        ],
+        "conditions": [
+          "l39-5",
+          "l39-9"
+        ],
+        "word-analysis": [
+          "l39-0",
+          "l39-1",
+          "l39-2",
+          "l39-3"
+        ],
+        "original-example": [
+          "l39-0",
+          "l39-1",
+          "l39-2",
+          "l39-3",
+          "l39-8"
+        ],
+        "transfer": [
+          "l39-6",
+          "l39-7"
+        ],
+        "meaning": [
+          "l39-7"
+        ],
+        "synthesis": [
+          "l39-8"
+        ]
+      }
+    },
+    {
+      "id": "l40",
+      "title": "افعالِ مدح و ذم",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l40-4",
+          "l40-9"
+        ],
+        "conditions": [
+          "l40-5",
+          "l40-9"
+        ],
+        "word-analysis": [
+          "l40-0",
+          "l40-1",
+          "l40-2",
+          "l40-3"
+        ],
+        "original-example": [
+          "l40-0",
+          "l40-1",
+          "l40-2",
+          "l40-3",
+          "l40-8"
+        ],
+        "transfer": [
+          "l40-6",
+          "l40-7"
+        ],
+        "meaning": [
+          "l40-7"
+        ],
+        "synthesis": [
+          "l40-8"
+        ]
+      }
+    },
+    {
+      "id": "l41",
+      "title": "افعالِ قلوب اور دو مفعول",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l41-4",
+          "l41-9"
+        ],
+        "conditions": [
+          "l41-5",
+          "l41-9"
+        ],
+        "word-analysis": [
+          "l41-0",
+          "l41-1",
+          "l41-2",
+          "l41-3"
+        ],
+        "original-example": [
+          "l41-0",
+          "l41-1",
+          "l41-2",
+          "l41-3",
+          "l41-8"
+        ],
+        "transfer": [
+          "l41-6",
+          "l41-7"
+        ],
+        "meaning": [
+          "l41-7"
+        ],
+        "synthesis": [
+          "l41-8"
+        ]
+      }
+    },
+    {
+      "id": "l42",
+      "title": "مصدر کا عمل",
+      "mcqs": 11,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l42-5",
+          "l42-10"
+        ],
+        "conditions": [
+          "l42-6",
+          "l42-10"
+        ],
+        "word-analysis": [
+          "l42-0",
+          "l42-1",
+          "l42-2",
+          "l42-3",
+          "l42-4"
+        ],
+        "original-example": [
+          "l42-0",
+          "l42-1",
+          "l42-2",
+          "l42-3",
+          "l42-4",
+          "l42-9"
+        ],
+        "transfer": [
+          "l42-7",
+          "l42-8"
+        ],
+        "meaning": [
+          "l42-8"
+        ],
+        "synthesis": [
+          "l42-9"
+        ]
+      }
+    },
+    {
+      "id": "l43",
+      "title": "صفتِ مشبہہ",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l43-4",
+          "l43-9"
+        ],
+        "conditions": [
+          "l43-5",
+          "l43-9"
+        ],
+        "word-analysis": [
+          "l43-0",
+          "l43-1",
+          "l43-2",
+          "l43-3"
+        ],
+        "original-example": [
+          "l43-0",
+          "l43-1",
+          "l43-2",
+          "l43-3",
+          "l43-8"
+        ],
+        "transfer": [
+          "l43-6",
+          "l43-7"
+        ],
+        "meaning": [
+          "l43-7"
+        ],
+        "synthesis": [
+          "l43-8"
+        ]
+      }
+    },
+    {
+      "id": "l44",
+      "title": "اسمِ تفضیل",
+      "mcqs": 11,
+      "short_answers": 7,
+      "areas": {
+        "rule": [
+          "l44-4",
+          "l44-9",
+          "l44-10"
+        ],
+        "conditions": [
+          "l44-5",
+          "l44-9",
+          "l44-10"
+        ],
+        "word-analysis": [
+          "l44-0",
+          "l44-1",
+          "l44-2",
+          "l44-3"
+        ],
+        "original-example": [
+          "l44-0",
+          "l44-1",
+          "l44-2",
+          "l44-3",
+          "l44-8"
+        ],
+        "transfer": [
+          "l44-6",
+          "l44-7"
+        ],
+        "meaning": [
+          "l44-7"
+        ],
+        "synthesis": [
+          "l44-8"
+        ]
+      }
+    },
+    {
+      "id": "l45",
+      "title": "اعراب کی بنیادی اور فرعی علامات",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l45-3"
+        ],
+        "conditions": [
+          "l45-4"
+        ],
+        "word-analysis": [
+          "l45-0",
+          "l45-1",
+          "l45-2"
+        ],
+        "original-example": [
+          "l45-0",
+          "l45-1",
+          "l45-2",
+          "l45-7"
+        ],
+        "transfer": [
+          "l45-5",
+          "l45-6"
+        ],
+        "meaning": [
+          "l45-6"
+        ],
+        "synthesis": [
+          "l45-7"
+        ]
+      }
+    },
+    {
+      "id": "l46",
+      "title": "نائب فاعل اور فعلِ مجہول",
+      "mcqs": 9,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l46-3",
+          "l46-8"
+        ],
+        "conditions": [
+          "l46-4",
+          "l46-8"
+        ],
+        "word-analysis": [
+          "l46-0",
+          "l46-1",
+          "l46-2"
+        ],
+        "original-example": [
+          "l46-0",
+          "l46-1",
+          "l46-2",
+          "l46-7"
+        ],
+        "transfer": [
+          "l46-5",
+          "l46-6"
+        ],
+        "meaning": [
+          "l46-6"
+        ],
+        "synthesis": [
+          "l46-7"
+        ]
+      }
+    },
+    {
+      "id": "l47",
+      "title": "حال، ظرف اور مفعولِ مطلق",
+      "mcqs": 11,
+      "short_answers": 7,
+      "areas": {
+        "rule": [
+          "l47-4",
+          "l47-9",
+          "l47-10"
+        ],
+        "conditions": [
+          "l47-5",
+          "l47-9",
+          "l47-10"
+        ],
+        "word-analysis": [
+          "l47-0",
+          "l47-1",
+          "l47-2",
+          "l47-3"
+        ],
+        "original-example": [
+          "l47-0",
+          "l47-1",
+          "l47-2",
+          "l47-3",
+          "l47-8"
+        ],
+        "transfer": [
+          "l47-6",
+          "l47-7"
+        ],
+        "meaning": [
+          "l47-7"
+        ],
+        "synthesis": [
+          "l47-8"
+        ]
+      }
+    },
+    {
+      "id": "l48",
+      "title": "توابع اور اعراب کا تعلق",
+      "mcqs": 11,
+      "short_answers": 7,
+      "areas": {
+        "rule": [
+          "l48-4",
+          "l48-9",
+          "l48-10"
+        ],
+        "conditions": [
+          "l48-5",
+          "l48-9",
+          "l48-10"
+        ],
+        "word-analysis": [
+          "l48-0",
+          "l48-1",
+          "l48-2",
+          "l48-3"
+        ],
+        "original-example": [
+          "l48-0",
+          "l48-1",
+          "l48-2",
+          "l48-3",
+          "l48-8"
+        ],
+        "transfer": [
+          "l48-6",
+          "l48-7"
+        ],
+        "meaning": [
+          "l48-7"
+        ],
+        "synthesis": [
+          "l48-8"
+        ]
+      }
+    },
+    {
+      "id": "l49",
+      "title": "اسم، فعل اور حرف",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l49-2"
+        ],
+        "conditions": [
+          "l49-3"
+        ],
+        "word-analysis": [
+          "l49-0",
+          "l49-1"
+        ],
+        "original-example": [
+          "l49-0",
+          "l49-1",
+          "l49-6"
+        ],
+        "transfer": [
+          "l49-4",
+          "l49-5"
+        ],
+        "meaning": [
+          "l49-5"
+        ],
+        "synthesis": [
+          "l49-6"
+        ]
+      }
+    },
+    {
+      "id": "l50",
+      "title": "جملہ اسمیہ اور فعلیہ",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l50-2"
+        ],
+        "conditions": [
+          "l50-3"
+        ],
+        "word-analysis": [
+          "l50-0",
+          "l50-1"
+        ],
+        "original-example": [
+          "l50-0",
+          "l50-1",
+          "l50-6"
+        ],
+        "transfer": [
+          "l50-4",
+          "l50-5"
+        ],
+        "meaning": [
+          "l50-5"
+        ],
+        "synthesis": [
+          "l50-6"
+        ]
+      }
+    },
+    {
+      "id": "l51",
+      "title": "اعرابِ ظاہر، تقدیری اور محلی",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l51-2"
+        ],
+        "conditions": [
+          "l51-3"
+        ],
+        "word-analysis": [
+          "l51-0",
+          "l51-1"
+        ],
+        "original-example": [
+          "l51-0",
+          "l51-1",
+          "l51-6"
+        ],
+        "transfer": [
+          "l51-4",
+          "l51-5"
+        ],
+        "meaning": [
+          "l51-5"
+        ],
+        "synthesis": [
+          "l51-6"
+        ]
+      }
+    },
+    {
+      "id": "l52",
+      "title": "اسمِ منقوص کا اعراب",
+      "mcqs": 8,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l52-2",
+          "l52-7"
+        ],
+        "conditions": [
+          "l52-3",
+          "l52-7"
+        ],
+        "word-analysis": [
+          "l52-0",
+          "l52-1"
+        ],
+        "original-example": [
+          "l52-0",
+          "l52-1",
+          "l52-6"
+        ],
+        "transfer": [
+          "l52-4",
+          "l52-5"
+        ],
+        "meaning": [
+          "l52-5"
+        ],
+        "synthesis": [
+          "l52-6"
+        ]
+      }
+    },
+    {
+      "id": "l53",
+      "title": "مثنیٰ کے اعراب",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l53-2"
+        ],
+        "conditions": [
+          "l53-3"
+        ],
+        "word-analysis": [
+          "l53-0",
+          "l53-1"
+        ],
+        "original-example": [
+          "l53-0",
+          "l53-1",
+          "l53-6"
+        ],
+        "transfer": [
+          "l53-4",
+          "l53-5"
+        ],
+        "meaning": [
+          "l53-5"
+        ],
+        "synthesis": [
+          "l53-6"
+        ]
+      }
+    },
+    {
+      "id": "l54",
+      "title": "جمع مذکر سالم",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l54-2"
+        ],
+        "conditions": [
+          "l54-3"
+        ],
+        "word-analysis": [
+          "l54-0",
+          "l54-1"
+        ],
+        "original-example": [
+          "l54-0",
+          "l54-1",
+          "l54-6"
+        ],
+        "transfer": [
+          "l54-4",
+          "l54-5"
+        ],
+        "meaning": [
+          "l54-5"
+        ],
+        "synthesis": [
+          "l54-6"
+        ]
+      }
+    },
+    {
+      "id": "l55",
+      "title": "جمع مؤنث سالم",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l55-2"
+        ],
+        "conditions": [
+          "l55-3"
+        ],
+        "word-analysis": [
+          "l55-0",
+          "l55-1"
+        ],
+        "original-example": [
+          "l55-0",
+          "l55-1",
+          "l55-6"
+        ],
+        "transfer": [
+          "l55-4",
+          "l55-5"
+        ],
+        "meaning": [
+          "l55-5"
+        ],
+        "synthesis": [
+          "l55-6"
+        ]
+      }
+    },
+    {
+      "id": "l56",
+      "title": "اسمائے ستہ",
+      "mcqs": 8,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l56-2",
+          "l56-7"
+        ],
+        "conditions": [
+          "l56-3",
+          "l56-7"
+        ],
+        "word-analysis": [
+          "l56-0",
+          "l56-1"
+        ],
+        "original-example": [
+          "l56-0",
+          "l56-1",
+          "l56-6"
+        ],
+        "transfer": [
+          "l56-4",
+          "l56-5"
+        ],
+        "meaning": [
+          "l56-5"
+        ],
+        "synthesis": [
+          "l56-6"
+        ]
+      }
+    },
+    {
+      "id": "l57",
+      "title": "غیر منصرف اسم",
+      "mcqs": 8,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l57-2",
+          "l57-7"
+        ],
+        "conditions": [
+          "l57-3",
+          "l57-7"
+        ],
+        "word-analysis": [
+          "l57-0",
+          "l57-1"
+        ],
+        "original-example": [
+          "l57-0",
+          "l57-1",
+          "l57-6"
+        ],
+        "transfer": [
+          "l57-4",
+          "l57-5"
+        ],
+        "meaning": [
+          "l57-5"
+        ],
+        "synthesis": [
+          "l57-6"
+        ]
+      }
+    },
+    {
+      "id": "l58",
+      "title": "ضمیر کا نحوی محل",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l58-2"
+        ],
+        "conditions": [
+          "l58-3"
+        ],
+        "word-analysis": [
+          "l58-0",
+          "l58-1"
+        ],
+        "original-example": [
+          "l58-0",
+          "l58-1",
+          "l58-6"
+        ],
+        "transfer": [
+          "l58-4",
+          "l58-5"
+        ],
+        "meaning": [
+          "l58-5"
+        ],
+        "synthesis": [
+          "l58-6"
+        ]
+      }
+    },
+    {
+      "id": "l59",
+      "title": "باء: استعانت اور سبب",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l59-2"
+        ],
+        "conditions": [
+          "l59-3"
+        ],
+        "word-analysis": [
+          "l59-0",
+          "l59-1"
+        ],
+        "original-example": [
+          "l59-0",
+          "l59-1",
+          "l59-6"
+        ],
+        "transfer": [
+          "l59-4",
+          "l59-5"
+        ],
+        "meaning": [
+          "l59-5"
+        ],
+        "synthesis": [
+          "l59-6"
+        ]
+      }
+    },
+    {
+      "id": "l60",
+      "title": "لام: ملک اور اختصاص",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l60-2"
+        ],
+        "conditions": [
+          "l60-3"
+        ],
+        "word-analysis": [
+          "l60-0",
+          "l60-1"
+        ],
+        "original-example": [
+          "l60-0",
+          "l60-1",
+          "l60-6"
+        ],
+        "transfer": [
+          "l60-4",
+          "l60-5"
+        ],
+        "meaning": [
+          "l60-5"
+        ],
+        "synthesis": [
+          "l60-6"
+        ]
+      }
+    },
+    {
+      "id": "l61",
+      "title": "کافِ تشبیہ",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l61-2"
+        ],
+        "conditions": [
+          "l61-3"
+        ],
+        "word-analysis": [
+          "l61-0",
+          "l61-1"
+        ],
+        "original-example": [
+          "l61-0",
+          "l61-1",
+          "l61-6"
+        ],
+        "transfer": [
+          "l61-4",
+          "l61-5"
+        ],
+        "meaning": [
+          "l61-5"
+        ],
+        "synthesis": [
+          "l61-6"
+        ]
+      }
+    },
+    {
+      "id": "l62",
+      "title": "مِنْ کے اہم معانی",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l62-2"
+        ],
+        "conditions": [
+          "l62-3"
+        ],
+        "word-analysis": [
+          "l62-0",
+          "l62-1"
+        ],
+        "original-example": [
+          "l62-0",
+          "l62-1",
+          "l62-6"
+        ],
+        "transfer": [
+          "l62-4",
+          "l62-5"
+        ],
+        "meaning": [
+          "l62-5"
+        ],
+        "synthesis": [
+          "l62-6"
+        ]
+      }
+    },
+    {
+      "id": "l63",
+      "title": "إِلَى اور حدِ انتہا",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l63-2"
+        ],
+        "conditions": [
+          "l63-3"
+        ],
+        "word-analysis": [
+          "l63-0",
+          "l63-1"
+        ],
+        "original-example": [
+          "l63-0",
+          "l63-1",
+          "l63-6"
+        ],
+        "transfer": [
+          "l63-4",
+          "l63-5"
+        ],
+        "meaning": [
+          "l63-5"
+        ],
+        "synthesis": [
+          "l63-6"
+        ]
+      }
+    },
+    {
+      "id": "l64",
+      "title": "عَنْ اور مجاوزت",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l64-2"
+        ],
+        "conditions": [
+          "l64-3"
+        ],
+        "word-analysis": [
+          "l64-0",
+          "l64-1"
+        ],
+        "original-example": [
+          "l64-0",
+          "l64-1",
+          "l64-6"
+        ],
+        "transfer": [
+          "l64-4",
+          "l64-5"
+        ],
+        "meaning": [
+          "l64-5"
+        ],
+        "synthesis": [
+          "l64-6"
+        ]
+      }
+    },
+    {
+      "id": "l65",
+      "title": "عَلَى اور استعلاء",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l65-2"
+        ],
+        "conditions": [
+          "l65-3"
+        ],
+        "word-analysis": [
+          "l65-0",
+          "l65-1"
+        ],
+        "original-example": [
+          "l65-0",
+          "l65-1",
+          "l65-6"
+        ],
+        "transfer": [
+          "l65-4",
+          "l65-5"
+        ],
+        "meaning": [
+          "l65-5"
+        ],
+        "synthesis": [
+          "l65-6"
+        ]
+      }
+    },
+    {
+      "id": "l66",
+      "title": "فِي اور ظرفیت",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l66-2"
+        ],
+        "conditions": [
+          "l66-3"
+        ],
+        "word-analysis": [
+          "l66-0",
+          "l66-1"
+        ],
+        "original-example": [
+          "l66-0",
+          "l66-1",
+          "l66-6"
+        ],
+        "transfer": [
+          "l66-4",
+          "l66-5"
+        ],
+        "meaning": [
+          "l66-5"
+        ],
+        "synthesis": [
+          "l66-6"
+        ]
+      }
+    },
+    {
+      "id": "l67",
+      "title": "أَنَّ اور مصدر مؤول",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l67-4"
+        ],
+        "conditions": [
+          "l67-5"
+        ],
+        "word-analysis": [
+          "l67-0",
+          "l67-1",
+          "l67-2",
+          "l67-3"
+        ],
+        "original-example": [
+          "l67-0",
+          "l67-1",
+          "l67-2",
+          "l67-3",
+          "l67-8"
+        ],
+        "transfer": [
+          "l67-6",
+          "l67-7"
+        ],
+        "meaning": [
+          "l67-7"
+        ],
+        "synthesis": [
+          "l67-8"
+        ]
+      }
+    },
+    {
+      "id": "l68",
+      "title": "إنما اور ما کافہ",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l68-3"
+        ],
+        "conditions": [
+          "l68-4"
+        ],
+        "word-analysis": [
+          "l68-0",
+          "l68-1",
+          "l68-2"
+        ],
+        "original-example": [
+          "l68-0",
+          "l68-1",
+          "l68-2",
+          "l68-7"
+        ],
+        "transfer": [
+          "l68-5",
+          "l68-6"
+        ],
+        "meaning": [
+          "l68-6"
+        ],
+        "synthesis": [
+          "l68-7"
+        ]
+      }
+    },
+    {
+      "id": "l69",
+      "title": "منادی مفرد اور نکرہ مقصودہ",
+      "mcqs": 8,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l69-2",
+          "l69-7"
+        ],
+        "conditions": [
+          "l69-3",
+          "l69-7"
+        ],
+        "word-analysis": [
+          "l69-0",
+          "l69-1"
+        ],
+        "original-example": [
+          "l69-0",
+          "l69-1",
+          "l69-6"
+        ],
+        "transfer": [
+          "l69-4",
+          "l69-5"
+        ],
+        "meaning": [
+          "l69-5"
+        ],
+        "synthesis": [
+          "l69-6"
+        ]
+      }
+    },
+    {
+      "id": "l70",
+      "title": "منادی مضاف اور مشابہ بالمضاف",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l70-4"
+        ],
+        "conditions": [
+          "l70-5"
+        ],
+        "word-analysis": [
+          "l70-0",
+          "l70-1",
+          "l70-2",
+          "l70-3"
+        ],
+        "original-example": [
+          "l70-0",
+          "l70-1",
+          "l70-2",
+          "l70-3",
+          "l70-8"
+        ],
+        "transfer": [
+          "l70-6",
+          "l70-7"
+        ],
+        "meaning": [
+          "l70-7"
+        ],
+        "synthesis": [
+          "l70-8"
+        ]
+      }
+    },
+    {
+      "id": "l71",
+      "title": "لَنْ اور نفیِ استقبال",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l71-2"
+        ],
+        "conditions": [
+          "l71-3"
+        ],
+        "word-analysis": [
+          "l71-0",
+          "l71-1"
+        ],
+        "original-example": [
+          "l71-0",
+          "l71-1",
+          "l71-6"
+        ],
+        "transfer": [
+          "l71-4",
+          "l71-5"
+        ],
+        "meaning": [
+          "l71-5"
+        ],
+        "synthesis": [
+          "l71-6"
+        ]
+      }
+    },
+    {
+      "id": "l72",
+      "title": "مضمر أَنْ کے مقامات",
+      "mcqs": 9,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l72-3",
+          "l72-8"
+        ],
+        "conditions": [
+          "l72-4",
+          "l72-8"
+        ],
+        "word-analysis": [
+          "l72-0",
+          "l72-1",
+          "l72-2"
+        ],
+        "original-example": [
+          "l72-0",
+          "l72-1",
+          "l72-2",
+          "l72-7"
+        ],
+        "transfer": [
+          "l72-5",
+          "l72-6"
+        ],
+        "meaning": [
+          "l72-6"
+        ],
+        "synthesis": [
+          "l72-7"
+        ]
+      }
+    },
+    {
+      "id": "l73",
+      "title": "لَمَّا اور اب تک کی نفی",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l73-3"
+        ],
+        "conditions": [
+          "l73-4"
+        ],
+        "word-analysis": [
+          "l73-0",
+          "l73-1",
+          "l73-2"
+        ],
+        "original-example": [
+          "l73-0",
+          "l73-1",
+          "l73-2",
+          "l73-7"
+        ],
+        "transfer": [
+          "l73-5",
+          "l73-6"
+        ],
+        "meaning": [
+          "l73-6"
+        ],
+        "synthesis": [
+          "l73-7"
+        ]
+      }
+    },
+    {
+      "id": "l74",
+      "title": "لامِ امر کی تطبیق",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l74-3"
+        ],
+        "conditions": [
+          "l74-4"
+        ],
+        "word-analysis": [
+          "l74-0",
+          "l74-1",
+          "l74-2"
+        ],
+        "original-example": [
+          "l74-0",
+          "l74-1",
+          "l74-2",
+          "l74-7"
+        ],
+        "transfer": [
+          "l74-5",
+          "l74-6"
+        ],
+        "meaning": [
+          "l74-6"
+        ],
+        "synthesis": [
+          "l74-7"
+        ]
+      }
+    },
+    {
+      "id": "l75",
+      "title": "لائے نفی اور لائے نہی",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l75-3"
+        ],
+        "conditions": [
+          "l75-4"
+        ],
+        "word-analysis": [
+          "l75-0",
+          "l75-1",
+          "l75-2"
+        ],
+        "original-example": [
+          "l75-0",
+          "l75-1",
+          "l75-2",
+          "l75-7"
+        ],
+        "transfer": [
+          "l75-5",
+          "l75-6"
+        ],
+        "meaning": [
+          "l75-6"
+        ],
+        "synthesis": [
+          "l75-7"
+        ]
+      }
+    },
+    {
+      "id": "l76",
+      "title": "افعالِ خمسہ",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l76-2"
+        ],
+        "conditions": [
+          "l76-3"
+        ],
+        "word-analysis": [
+          "l76-0",
+          "l76-1"
+        ],
+        "original-example": [
+          "l76-0",
+          "l76-1",
+          "l76-6"
+        ],
+        "transfer": [
+          "l76-4",
+          "l76-5"
+        ],
+        "meaning": [
+          "l76-5"
+        ],
+        "synthesis": [
+          "l76-6"
+        ]
+      }
+    },
+    {
+      "id": "l77",
+      "title": "معتل الآخر مضارع کا جزم",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l77-3"
+        ],
+        "conditions": [
+          "l77-4"
+        ],
+        "word-analysis": [
+          "l77-0",
+          "l77-1",
+          "l77-2"
+        ],
+        "original-example": [
+          "l77-0",
+          "l77-1",
+          "l77-2",
+          "l77-7"
+        ],
+        "transfer": [
+          "l77-5",
+          "l77-6"
+        ],
+        "meaning": [
+          "l77-6"
+        ],
+        "synthesis": [
+          "l77-7"
+        ]
+      }
+    },
+    {
+      "id": "l78",
+      "title": "مَنْ، مَا اور مَهْمَا شرطیہ",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l78-3"
+        ],
+        "conditions": [
+          "l78-4"
+        ],
+        "word-analysis": [
+          "l78-0",
+          "l78-1",
+          "l78-2"
+        ],
+        "original-example": [
+          "l78-0",
+          "l78-1",
+          "l78-2",
+          "l78-7"
+        ],
+        "transfer": [
+          "l78-5",
+          "l78-6"
+        ],
+        "meaning": [
+          "l78-6"
+        ],
+        "synthesis": [
+          "l78-7"
+        ]
+      }
+    },
+    {
+      "id": "l79",
+      "title": "زمان و مکان کے اسمائے شرط",
+      "mcqs": 9,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l79-3",
+          "l79-8"
+        ],
+        "conditions": [
+          "l79-4",
+          "l79-8"
+        ],
+        "word-analysis": [
+          "l79-0",
+          "l79-1",
+          "l79-2"
+        ],
+        "original-example": [
+          "l79-0",
+          "l79-1",
+          "l79-2",
+          "l79-7"
+        ],
+        "transfer": [
+          "l79-5",
+          "l79-6"
+        ],
+        "meaning": [
+          "l79-6"
+        ],
+        "synthesis": [
+          "l79-7"
+        ]
+      }
+    },
+    {
+      "id": "l80",
+      "title": "أَيّ شرطیہ اور إضافت",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l80-4"
+        ],
+        "conditions": [
+          "l80-5"
+        ],
+        "word-analysis": [
+          "l80-0",
+          "l80-1",
+          "l80-2",
+          "l80-3"
+        ],
+        "original-example": [
+          "l80-0",
+          "l80-1",
+          "l80-2",
+          "l80-3",
+          "l80-8"
+        ],
+        "transfer": [
+          "l80-6",
+          "l80-7"
+        ],
+        "meaning": [
+          "l80-7"
+        ],
+        "synthesis": [
+          "l80-8"
+        ]
+      }
+    },
+    {
+      "id": "l81",
+      "title": "جواب شرط اور رابطہ فاء",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l81-4"
+        ],
+        "conditions": [
+          "l81-5"
+        ],
+        "word-analysis": [
+          "l81-0",
+          "l81-1",
+          "l81-2",
+          "l81-3"
+        ],
+        "original-example": [
+          "l81-0",
+          "l81-1",
+          "l81-2",
+          "l81-3",
+          "l81-8"
+        ],
+        "transfer": [
+          "l81-6",
+          "l81-7"
+        ],
+        "meaning": [
+          "l81-7"
+        ],
+        "synthesis": [
+          "l81-8"
+        ]
+      }
+    },
+    {
+      "id": "l82",
+      "title": "عشرون سے تسعون تک",
+      "mcqs": 9,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l82-3",
+          "l82-8"
+        ],
+        "conditions": [
+          "l82-4",
+          "l82-8"
+        ],
+        "word-analysis": [
+          "l82-0",
+          "l82-1",
+          "l82-2"
+        ],
+        "original-example": [
+          "l82-0",
+          "l82-1",
+          "l82-2",
+          "l82-7"
+        ],
+        "transfer": [
+          "l82-5",
+          "l82-6"
+        ],
+        "meaning": [
+          "l82-6"
+        ],
+        "synthesis": [
+          "l82-7"
+        ]
+      }
+    },
+    {
+      "id": "l83",
+      "title": "کَمْ استفہامیہ اور خبریہ",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l83-3"
+        ],
+        "conditions": [
+          "l83-4"
+        ],
+        "word-analysis": [
+          "l83-0",
+          "l83-1",
+          "l83-2"
+        ],
+        "original-example": [
+          "l83-0",
+          "l83-1",
+          "l83-2",
+          "l83-7"
+        ],
+        "transfer": [
+          "l83-5",
+          "l83-6"
+        ],
+        "meaning": [
+          "l83-6"
+        ],
+        "synthesis": [
+          "l83-7"
+        ]
+      }
+    },
+    {
+      "id": "l84",
+      "title": "كَأَيِّنْ اور مِنْ",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l84-3"
+        ],
+        "conditions": [
+          "l84-4"
+        ],
+        "word-analysis": [
+          "l84-0",
+          "l84-1",
+          "l84-2"
+        ],
+        "original-example": [
+          "l84-0",
+          "l84-1",
+          "l84-2",
+          "l84-7"
+        ],
+        "transfer": [
+          "l84-5",
+          "l84-6"
+        ],
+        "meaning": [
+          "l84-6"
+        ],
+        "synthesis": [
+          "l84-7"
+        ]
+      }
+    },
+    {
+      "id": "l85",
+      "title": "كَذَا اور عددِ کنایہ",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l85-3"
+        ],
+        "conditions": [
+          "l85-4"
+        ],
+        "word-analysis": [
+          "l85-0",
+          "l85-1",
+          "l85-2"
+        ],
+        "original-example": [
+          "l85-0",
+          "l85-1",
+          "l85-2",
+          "l85-7"
+        ],
+        "transfer": [
+          "l85-5",
+          "l85-6"
+        ],
+        "meaning": [
+          "l85-6"
+        ],
+        "synthesis": [
+          "l85-7"
+        ]
+      }
+    },
+    {
+      "id": "l86",
+      "title": "رُوَيْدَ اور بَلْهَ",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l86-2"
+        ],
+        "conditions": [
+          "l86-3"
+        ],
+        "word-analysis": [
+          "l86-0",
+          "l86-1"
+        ],
+        "original-example": [
+          "l86-0",
+          "l86-1",
+          "l86-6"
+        ],
+        "transfer": [
+          "l86-4",
+          "l86-5"
+        ],
+        "meaning": [
+          "l86-5"
+        ],
+        "synthesis": [
+          "l86-6"
+        ]
+      }
+    },
+    {
+      "id": "l87",
+      "title": "دُونَكَ، عَلَيْكَ اور هَا",
+      "mcqs": 7,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l87-2"
+        ],
+        "conditions": [
+          "l87-3"
+        ],
+        "word-analysis": [
+          "l87-0",
+          "l87-1"
+        ],
+        "original-example": [
+          "l87-0",
+          "l87-1",
+          "l87-6"
+        ],
+        "transfer": [
+          "l87-4",
+          "l87-5"
+        ],
+        "meaning": [
+          "l87-5"
+        ],
+        "synthesis": [
+          "l87-6"
+        ]
+      }
+    },
+    {
+      "id": "l88",
+      "title": "هَلُمَّ اور حَيَّهَلْ",
+      "mcqs": 8,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l88-2",
+          "l88-7"
+        ],
+        "conditions": [
+          "l88-3",
+          "l88-7"
+        ],
+        "word-analysis": [
+          "l88-0",
+          "l88-1"
+        ],
+        "original-example": [
+          "l88-0",
+          "l88-1",
+          "l88-6"
+        ],
+        "transfer": [
+          "l88-4",
+          "l88-5"
+        ],
+        "meaning": [
+          "l88-5"
+        ],
+        "synthesis": [
+          "l88-6"
+        ]
+      }
+    },
+    {
+      "id": "l89",
+      "title": "أَصْبَحَ، أَمْسَى اور أَضْحَى",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l89-3"
+        ],
+        "conditions": [
+          "l89-4"
+        ],
+        "word-analysis": [
+          "l89-0",
+          "l89-1",
+          "l89-2"
+        ],
+        "original-example": [
+          "l89-0",
+          "l89-1",
+          "l89-2",
+          "l89-7"
+        ],
+        "transfer": [
+          "l89-5",
+          "l89-6"
+        ],
+        "meaning": [
+          "l89-6"
+        ],
+        "synthesis": [
+          "l89-7"
+        ]
+      }
+    },
+    {
+      "id": "l90",
+      "title": "ظَلَّ اور بَاتَ",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l90-3"
+        ],
+        "conditions": [
+          "l90-4"
+        ],
+        "word-analysis": [
+          "l90-0",
+          "l90-1",
+          "l90-2"
+        ],
+        "original-example": [
+          "l90-0",
+          "l90-1",
+          "l90-2",
+          "l90-7"
+        ],
+        "transfer": [
+          "l90-5",
+          "l90-6"
+        ],
+        "meaning": [
+          "l90-6"
+        ],
+        "synthesis": [
+          "l90-7"
+        ]
+      }
+    },
+    {
+      "id": "l91",
+      "title": "مَا دَامَ اور مدت",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l91-4"
+        ],
+        "conditions": [
+          "l91-5"
+        ],
+        "word-analysis": [
+          "l91-0",
+          "l91-1",
+          "l91-2",
+          "l91-3"
+        ],
+        "original-example": [
+          "l91-0",
+          "l91-1",
+          "l91-2",
+          "l91-3",
+          "l91-8"
+        ],
+        "transfer": [
+          "l91-6",
+          "l91-7"
+        ],
+        "meaning": [
+          "l91-7"
+        ],
+        "synthesis": [
+          "l91-8"
+        ]
+      }
+    },
+    {
+      "id": "l92",
+      "title": "مَا بَرِحَ، مَا فَتِئَ اور مَا انْفَكَّ",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l92-3"
+        ],
+        "conditions": [
+          "l92-4"
+        ],
+        "word-analysis": [
+          "l92-0",
+          "l92-1",
+          "l92-2"
+        ],
+        "original-example": [
+          "l92-0",
+          "l92-1",
+          "l92-2",
+          "l92-7"
+        ],
+        "transfer": [
+          "l92-5",
+          "l92-6"
+        ],
+        "meaning": [
+          "l92-6"
+        ],
+        "synthesis": [
+          "l92-7"
+        ]
+      }
+    },
+    {
+      "id": "l93",
+      "title": "عَسَى اور أَوْشَكَ",
+      "mcqs": 9,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l93-3",
+          "l93-8"
+        ],
+        "conditions": [
+          "l93-4",
+          "l93-8"
+        ],
+        "word-analysis": [
+          "l93-0",
+          "l93-1",
+          "l93-2"
+        ],
+        "original-example": [
+          "l93-0",
+          "l93-1",
+          "l93-2",
+          "l93-7"
+        ],
+        "transfer": [
+          "l93-5",
+          "l93-6"
+        ],
+        "meaning": [
+          "l93-6"
+        ],
+        "synthesis": [
+          "l93-7"
+        ]
+      }
+    },
+    {
+      "id": "l94",
+      "title": "كَرَبَ اور خبرِ مقاربہ",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l94-3"
+        ],
+        "conditions": [
+          "l94-4"
+        ],
+        "word-analysis": [
+          "l94-0",
+          "l94-1",
+          "l94-2"
+        ],
+        "original-example": [
+          "l94-0",
+          "l94-1",
+          "l94-2",
+          "l94-7"
+        ],
+        "transfer": [
+          "l94-5",
+          "l94-6"
+        ],
+        "meaning": [
+          "l94-6"
+        ],
+        "synthesis": [
+          "l94-7"
+        ]
+      }
+    },
+    {
+      "id": "l95",
+      "title": "بِئْسَ، سَاءَ اور حَبَّذَا",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l95-3"
+        ],
+        "conditions": [
+          "l95-4"
+        ],
+        "word-analysis": [
+          "l95-0",
+          "l95-1",
+          "l95-2"
+        ],
+        "original-example": [
+          "l95-0",
+          "l95-1",
+          "l95-2",
+          "l95-7"
+        ],
+        "transfer": [
+          "l95-5",
+          "l95-6"
+        ],
+        "meaning": [
+          "l95-6"
+        ],
+        "synthesis": [
+          "l95-7"
+        ]
+      }
+    },
+    {
+      "id": "l96",
+      "title": "افعالِ قلوب: شک اور یقین",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l96-3"
+        ],
+        "conditions": [
+          "l96-4"
+        ],
+        "word-analysis": [
+          "l96-0",
+          "l96-1",
+          "l96-2"
+        ],
+        "original-example": [
+          "l96-0",
+          "l96-1",
+          "l96-2",
+          "l96-7"
+        ],
+        "transfer": [
+          "l96-5",
+          "l96-6"
+        ],
+        "meaning": [
+          "l96-6"
+        ],
+        "synthesis": [
+          "l96-7"
+        ]
+      }
+    },
+    {
+      "id": "l97",
+      "title": "تعلیق اور الغاء",
+      "mcqs": 10,
+      "short_answers": 6,
+      "areas": {
+        "rule": [
+          "l97-4",
+          "l97-9"
+        ],
+        "conditions": [
+          "l97-5",
+          "l97-9"
+        ],
+        "word-analysis": [
+          "l97-0",
+          "l97-1",
+          "l97-2",
+          "l97-3"
+        ],
+        "original-example": [
+          "l97-0",
+          "l97-1",
+          "l97-2",
+          "l97-3",
+          "l97-8"
+        ],
+        "transfer": [
+          "l97-6",
+          "l97-7"
+        ],
+        "meaning": [
+          "l97-7"
+        ],
+        "synthesis": [
+          "l97-8"
+        ]
+      }
+    },
+    {
+      "id": "l98",
+      "title": "لازم اور متعدی کا امتیاز",
+      "mcqs": 8,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l98-3"
+        ],
+        "conditions": [
+          "l98-4"
+        ],
+        "word-analysis": [
+          "l98-0",
+          "l98-1",
+          "l98-2"
+        ],
+        "original-example": [
+          "l98-0",
+          "l98-1",
+          "l98-2",
+          "l98-7"
+        ],
+        "transfer": [
+          "l98-5",
+          "l98-6"
+        ],
+        "meaning": [
+          "l98-6"
+        ],
+        "synthesis": [
+          "l98-7"
+        ]
+      }
+    },
+    {
+      "id": "l99",
+      "title": "مصدر کی اضافت: فاعل اور مفعول",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l99-4"
+        ],
+        "conditions": [
+          "l99-5"
+        ],
+        "word-analysis": [
+          "l99-0",
+          "l99-1",
+          "l99-2",
+          "l99-3"
+        ],
+        "original-example": [
+          "l99-0",
+          "l99-1",
+          "l99-2",
+          "l99-3",
+          "l99-8"
+        ],
+        "transfer": [
+          "l99-6",
+          "l99-7"
+        ],
+        "meaning": [
+          "l99-7"
+        ],
+        "synthesis": [
+          "l99-8"
+        ]
+      }
+    },
+    {
+      "id": "l100",
+      "title": "جامع ترکیب: دو مختلف عامل",
+      "mcqs": 9,
+      "short_answers": 5,
+      "areas": {
+        "rule": [
+          "l100-4"
+        ],
+        "conditions": [
+          "l100-5"
+        ],
+        "word-analysis": [
+          "l100-0",
+          "l100-1",
+          "l100-2",
+          "l100-3"
+        ],
+        "original-example": [
+          "l100-0",
+          "l100-1",
+          "l100-2",
+          "l100-3",
+          "l100-8"
+        ],
+        "transfer": [
+          "l100-6",
+          "l100-7"
+        ],
+        "meaning": [
+          "l100-7"
+        ],
+        "synthesis": [
+          "l100-8"
+        ]
+      }
+    }
+  ],
+  "question_types": {
+    "بنیادی فہم": 23,
+    "ترکیب و اعراب": 280,
+    "قاعدہ و شرط": 200,
+    "نئی مثال پر تطبیق": 100,
+    "فہمِ عبارت": 100,
+    "ربطِ اجزائے جملہ": 100,
+    "تفصیلی شرط و استثناء": 43,
+    "تصحیح و تقابل": 23
+  }
+}

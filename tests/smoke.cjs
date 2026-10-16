@@ -13,5 +13,26 @@ for(const l of lessons){for(const mode of ['read','analysis','qa','quiz']){ctx.l
 run("startQuiz('all')");assert.equal(run('quiz.items.length'),20);assert(run('quiz.items.every(q=>quiz.items.filter(x=>x.id===q.id).length===1)'));
 run('answer(quiz.options.findIndex(o=>o.correct))');assert.equal(run('quiz.score'),1);run('answer(0)');assert.equal(run('quiz.score'),1,'duplicate answers blocked');run('nextQuestion();answer(quiz.options.findIndex(o=>!o.correct))');assert.equal(run('Object.values(state.answers).filter(x=>x===false).length'),1);run("startQuiz('mistakes')");assert.equal(run('quiz.items.length'),1);
 run('startQuiz(STAGES[0].ids)');assert(run('quiz.items.every(q=>STAGES[0].ids.includes(q.lesson))'));
-for(const file of ['index.html','styles.css','data.js','app.js','content.json','assets/fonts/Amiri-Regular.woff2','assets/fonts/NafeesNastaleeq.woff2','books/diya.pdf','books/sharh.pdf','books/tawdih.pdf'])assert(fs.statSync(path.join(root,file)).size>0,file);
+for(const file of ['index.html','styles.css','data.js','app.js','content.json','assets/fonts/Amiri-Regular.woff2','assets/fonts/JameelNooriNastaleeq.woff2'])assert(fs.statSync(path.join(root,file)).size>0,file);
 console.log(`PASS: 100 lessons, 10 stages, ${lessons.reduce((n,l)=>n+l.quiz.length,0)} questions; 400 lesson views; routes; scoring; duplicate protection; mistake review; stage scope; local assets.`);
+
+assert(run("rich('یہ مثال قَرَأَ ہے۔').includes('lang=\"ar\"')"));
+assert(run("rich('<script>قَرَأَ</script>').includes('&lt;script&gt;')"));
+assert(!fs.readFileSync(path.join(root,'app.js'),'utf8').includes('href=\"books/'));
+console.log('PASS: Arabic spans, HTML escaping and no bundled-PDF links.');
+for(const l of lessons){
+ assert(l.synthesis&&l.sentenceType,'whole-sentence explanation '+l.id);
+ assert(l.transfer?.sentence&&l.transfer?.synthesis,'new worked example '+l.id);
+ for(const [area,ids] of Object.entries(l.coverage)){assert(ids.length,'uncovered '+l.id+' '+area);assert(ids.every(id=>l.quiz.some(q=>q.id===id)),'coverage links '+l.id);}
+ assert.equal(new Set(l.quiz.map(q=>q.q)).size,l.quiz.length,'duplicate stem '+l.id);
+ assert(l.quiz.some(q=>q.kind==='قاعدہ و شرط'));
+ assert(l.quiz.some(q=>q.kind==='نئی مثال پر تطبیق'));
+ assert(l.quiz.some(q=>q.kind==='ربطِ اجزائے جملہ'));
+}
+run("startQuiz('all')");assert.equal(run('new Set(quiz.items.map(q=>STAGES.findIndex(s=>s.ids.includes(q.lesson)))).size'),10,'all ten stages sampled');
+run("startQuiz('type:ربطِ اجزائے جملہ')");assert(run("quiz.items.every(q=>q.kind==='ربطِ اجزائے جملہ')"));
+run('reviewPage()');assert.equal(run('reviewList.length'),lessons.reduce((n,l)=>n+l.qa.length,0),'all short answers in revision');
+ctx.location.hash='#coverage';run('route()');assert(els.get('#view').innerHTML.includes('مواد اور مشق کی مطابقت'));
+ctx.location.hash='#lesson/l17/analysis';run('route()');assert(els.get('#view').innerHTML.includes('اب پورے جملے کے اجزا جوڑیے'));assert(els.get('#view').innerHTML.includes('اسی قاعدے کو دوسری عبارت میں پہچانیے'));
+assert(!fs.readFileSync(path.join(root,'index.html'),'utf8').includes('id="print"'));
+console.log('PASS: all seven coverage areas for every lesson; 200 worked examples; whole-sentence synthesis; contextual practice; balanced stage sampling; all short answers in revision.');
